@@ -1,1 +1,1 @@
-thsi is a #new readme for understanding git
+# thsi is a #new readme for understanding git
